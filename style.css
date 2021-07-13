@@ -1,0 +1,28 @@
+* {
+    background-color: #25252A;
+    font-family: 'Segoe UI';
+    font-size: large;
+}
+#city_name{
+    background-color:black;
+    color: white;
+    height: 30px;
+    width:300px;
+}
+
+#submit_btn{
+    background-color: rgb(0, 132, 255);
+    border:none;
+    border-radius: 4px;
+    height: 36px;
+    width: 70px;
+}
+#input{
+    margin-left: 37%;
+    margin-top: 12%;
+}
+#output{
+    text-align: center;
+    color:white;
+    margin-top: 5%;
+}
